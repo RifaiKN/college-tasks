@@ -1,0 +1,93 @@
+,Gender,Tujuan,Lama_Investasi,Dana_Investasi,Pemahaman_Investasi,Pendapatan_dan_Stabilitas_Keuangan,Sejauh mana anda bersedia mengambil risiko dalam investasi,Pengalaman_Investasi,Frekuensi_Riset,Respon_Terhadap_Volatilitas,Instrumen_Favorit,Profil_Risiko
+0,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Cukup Baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Saham,Konservatif/Moderat
+1,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+3,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.25,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+4,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Kurang baik,Rendah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Saham,Konservatif/Moderat
+5,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Sangat Berani,YA,Kadang - kadang,Tenang dan sabar,Saham,Agresif
+7,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.09999999999999999,Kurang baik,Rendah,Sangat Konservatif,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+8,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.09999999999999999,Cukup Baik,Menengah,Moderat,TIDAKK,Jarang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+9,L,meningkatkan kekayaan dan portofolio investasi,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+10,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+13,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.0005,Sangat Baik,Tinggi,Sangat Berani,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Agresif
+15,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Kurang baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+16,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.15,Kurang baik,Menengah,Moderat,YA,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+17,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+19,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.09999999999999999,Kurang baik,Rendah,Sangat Berani,TIDAKK,Selalu,Khawatir tapi tetap bertahan,Obligasi,Agresif
+21,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+22,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+23,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.075,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Lainnya,Agresif
+25,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Cukup Baik,Rendah,Moderat,YA,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+26,L,meningkatkan kekayaan dan portofolio investasi,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Sangat Konservatif,YA,Selalu,Tenang dan sabar,Saham,Agresif
+29,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Cepat panik dan cenderung,Saham,Konservatif/Moderat
+30,L,meningkatkan kekayaan dan portofolio investasi,1-5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+31,P,meningkatkan kekayaan dan portofolio investasi,Lebih dari 5 tahun,0.005,Kurang baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Obligasi,Konservatif/Moderat
+32,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Kurang baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Cepat panik dan cenderung,Saham,Konservatif/Moderat
+33,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.075,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+34,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Properti,Konservatif/Moderat
+35,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Rendah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+36,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.25,Cukup Baik,Menengah,Sangat Konservatif,YA,Selalu,Tenang dan sabar,Properti,Agresif
+37,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+38,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Kurang baik,Menengah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Obligasi,Konservatif/Moderat
+39,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Kurang baik,Menengah,Moderat,YA,Jarang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+40,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Cukup Baik,Rendah,Sangat Konservatif,YA,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+41,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Kurang baik,Menengah,Moderat,TIDAKK,Selalu,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+43,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,1.0,Cukup Baik,Menengah,Moderat,YA,Selalu,Tenang dan sabar,Lainnya,Agresif
+44,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+45,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Kurang baik,Rendah,Sangat Konservatif,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Obligasi,Konservatif/Moderat
+46,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.25,Kurang baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Properti,Konservatif/Moderat
+47,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+48,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,1.0,Cukup Baik,Rendah,Moderat,YA,Jarang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+50,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Kurang baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Properti,Konservatif/Moderat
+51,L,Mencapai tujuan keuangan jangka pendek,Kurang dari 1 tahun,0.024999999999999998,Kurang baik,Rendah,Sangat Berani,TIDAKK,Jarang,Cepat panik dan cenderung,Properti,Konservatif/Moderat
+52,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,1.0,Kurang baik,Menengah,Moderat,YA,Selalu,Tenang dan sabar,Saham,Agresif
+53,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Kurang baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+54,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Kurang baik,Rendah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+55,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Kurang baik,Menengah,Moderat,TIDAKK,Selalu,Tenang dan sabar,Saham,Agresif
+56,P,Mencapai tujuan keuangan jangka pendek,1-5 tahun,0.25,Kurang baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+57,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,1.0,Kurang baik,Menengah,Sangat Berani,YA,Selalu,Tenang dan sabar,Properti,Agresif
+58,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+59,L,meningkatkan kekayaan dan portofolio investasi,1-5 tahun,0.09999999999999999,Kurang baik,Menengah,Moderat,TIDAKK,Selalu,Tenang dan sabar,Saham,Konservatif/Moderat
+60,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,1.0,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+61,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Selalu,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+62,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Kurang baik,Menengah,Moderat,YA,Kadang - kadang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+63,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Kurang baik,Rendah,Moderat,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+65,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Cukup Baik,Rendah,Moderat,YA,Kadang - kadang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+66,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Sangat Berani,YA,Jarang,Tenang dan sabar,Obligasi,Agresif
+67,P,Mencapai tujuan keuangan jangka pendek,1-5 tahun,0.024999999999999998,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Selalu,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+68,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+70,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Cukup Baik,Menengah,Sangat Konservatif,YA,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+72,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.75,Cukup Baik,Menengah,Moderat,YA,Selalu,Tenang dan sabar,Properti,Konservatif/Moderat
+73,L,Mencapai tujuan keuangan jangka pendek,Kurang dari 1 tahun,0.5,Cukup Baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Cepat panik dan cenderung,Properti,Konservatif/Moderat
+74,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.09999999999999999,Kurang baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+78,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.09999999999999999,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+79,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Obligasi,Konservatif/Moderat
+80,L,meningkatkan kekayaan dan portofolio investasi,1-5 tahun,1.0,Cukup Baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+81,L,Mempersiapkan masa depan jangka panjang,Kurang dari 1 tahun,0.0,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Lainnya,Konservatif/Moderat
+83,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Kurang baik,Menengah,Moderat,YA,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+84,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+85,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.09999999999999999,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+86,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Cukup Baik,Rendah,Moderat,TIDAKK,Kadang - kadang,Cepat panik dan cenderung,Reksa dana,Konservatif/Moderat
+87,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.25,Cukup Baik,Rendah,Sangat Berani,YA,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+88,L,meningkatkan kekayaan dan portofolio investasi,1-5 tahun,0.049999999999999996,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+89,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Cukup Baik,Rendah,Sangat Konservatif,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+90,L,Mencapai tujuan keuangan jangka pendek,1-5 tahun,0.049999999999999996,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Khawatir tapi tetap bertahan,Lainnya,Konservatif/Moderat
+91,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Kurang baik,Rendah,Sangat Konservatif,TIDAKK,Selalu,Cepat panik dan cenderung,Saham,Konservatif/Moderat
+93,P,meningkatkan kekayaan dan portofolio investasi,Lebih dari 5 tahun,1.0,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+94,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.049999999999999996,Kurang baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Konservatif/Moderat
+96,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.125,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Kadang - kadang,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+97,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Kurang baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+100,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,1.0,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Tenang dan sabar,Saham,Agresif
+101,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.25,Cukup Baik,Menengah,Moderat,YA,Selalu,Tenang dan sabar,Reksa dana,Konservatif/Moderat
+103,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Menengah,Sangat Konservatif,TIDAKK,Selalu,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+104,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.049999999999999996,Kurang baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+106,L,Mencapai tujuan keuangan jangka pendek,Kurang dari 1 tahun,0.049999999999999996,Cukup Baik,Menengah,Sangat Konservatif,TIDAKK,Jarang,Cepat panik dan cenderung,Reksa dana,Konservatif/Moderat
+107,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Selalu,Tenang dan sabar,Saham,Konservatif/Moderat
+108,L,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,YA,Kadang - kadang,Tenang dan sabar,Obligasi,Konservatif/Moderat
+110,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+111,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.5,Kurang baik,Rendah,Sangat Konservatif,TIDAKK,Jarang,Tenang dan sabar,Saham,Konservatif/Moderat
+112,L,meningkatkan kekayaan dan portofolio investasi,1-5 tahun,0.25,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+113,P,Mempersiapkan masa depan jangka panjang,Lebih dari 5 tahun,0.5,Cukup Baik,Menengah,Moderat,TIDAKK,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+114,L,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Cukup Baik,Menengah,Moderat,TIDAKK,Kadang - kadang,Khawatir tapi tetap bertahan,Properti,Konservatif/Moderat
+115,P,Mencapai tujuan keuangan jangka pendek,1-5 tahun,0.075,Kurang baik,Menengah,Sangat Konservatif,YA,Jarang,Khawatir tapi tetap bertahan,Reksa dana,Konservatif/Moderat
+116,P,Mempersiapkan masa depan jangka panjang,1-5 tahun,0.25,Kurang baik,Menengah,Moderat,TIDAKK,Selalu,Khawatir tapi tetap bertahan,Saham,Konservatif/Moderat
+117,L,meningkatkan kekayaan dan portofolio investasi,1-5 tahun,0.75,Cukup Baik,Menengah,Sangat Konservatif,YA,Kadang - kadang,Tenang dan sabar,Lainnya,Konservatif/Moderat
